@@ -40,7 +40,7 @@ const MenuComponent = () => {
                     WhatsApp
                 </MenuItem>
                 <MenuItem icon={<MdOutlineInfo />}>
-                    Sobre mim
+                    Sobre mim 
                 </MenuItem>
             </MenuList>
         </Menu>
